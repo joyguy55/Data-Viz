@@ -1,0 +1,24 @@
+body{
+    vertical-align: bottom;
+    min-height: 100px;
+}
+div{
+    vertical-align: middle;
+}
+svg{
+    display: inline-block;
+    float: left;
+/*    margin: auto;*/
+}
+text{
+    font-size: 10px;
+    margin-left: 10px;
+}
+.bar{
+    background: grey;
+    height: .3px;
+    display: block;
+    margin-top: 5px;
+    padding: 5px;
+    color: white;
+}
